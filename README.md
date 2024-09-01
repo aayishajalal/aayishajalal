@@ -62,9 +62,6 @@
     <a href="https://linkedin.com/in/aayishajalal/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aayishajalal/" />
     </a>
-    <a href="https://aayishajalal.hashnode.dev/">
-        <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="https://aayishajalal.hashnode.dev/" />
-    </a>
     <a title="aayishanooraj@gmail.com" href="mailto:aayishanooraj@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aayishanooraj@gmail.com" />
     </a>
@@ -84,6 +81,6 @@
 <!----------------------------------- Languages Used Section ------------------------------------>  
 <h2> Languages Used :wrench: </h2> 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
 </p>
 <br>
