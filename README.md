@@ -10,11 +10,11 @@
    <i>- My primary focus is on writing clean, elegant, and efficient code to deliver high-quality web applications</i>
 </h3>
 
-<h3>
+<h3>  
    <i>- With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences and robust functionalities.</i>
 </h3>
 
-<h3>
+<h3>  
    <i>- If you are looking for a dedicated Full Stack Web Developer with expertise in the MERN stack and a strong understanding of DevOps with AWS, let's connect!</i>
 </h3>
 <br>
@@ -22,11 +22,11 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="center">
-    <a href="https://github.com/aayishanooraj">
-        <img src="https://komarev.com/ghpvc/?username=aayishanooraj&label=Profile%20views&color=0e75b6&style=flat" alt="aayishanooraj" />
+    <a href="https://github.com/aayishajalal">
+        <img src="https://komarev.com/ghpvc/?username=aayishajalal&label=Profile%20views&color=0e75b6&style=flat" alt="aayishajalal" />
     </a>
-    <a href="https://github.com/aayishanooraj?tab=followers">
-        <img src="https://img.shields.io/github/followers/aayishanooraj?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/aayishajalal?tab=followers">
+        <img src="https://img.shields.io/github/followers/aayishajalal?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -59,17 +59,14 @@
 <h2>Let's Connect</h2>
 
 <p align="left">
-    <a href="https://linkedin.com/in/aayishanooraj">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aayishanooraj" />
+    <a href="https://linkedin.com/in/aayishajalal/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/aayishajalal/" />
     </a>
-    <a href="#">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Your Portfolio Link" />
+    <a href="https://aayishajalal.hashnode.dev/">
+        <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="https://aayishajalal.hashnode.dev/" />
     </a>
-    <a href="https://aayishanooraj.hashnode.dev/">
-        <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="https://aayishanooraj.hashnode.dev/" />
-    </a>
-    <a title="aayishanooraj@example.com" href="mailto:aayishanooraj@example.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aayishanooraj@example.com" />
+    <a title="aayishanooraj@gmail.com" href="mailto:aayishanooraj@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aayishanooraj@gmail.com" />
     </a>
 </p>
 <br>
@@ -78,15 +75,15 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayishanooraj&" alt="aayishanooraj" height="139"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayishajalal&" alt="aayishajalal" height="139"/>
   
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayishanooraj&show_icons=true&locale=en" alt="aayishanooraj" height="139" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayishajalal&show_icons=true&locale=en" alt="aayishajalal" height="139" />
 </p>
 <br>
 
 <!----------------------------------- Languages Used Section ------------------------------------>  
 <h2> Languages Used :wrench: </h2> 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishanooraj&layout=compact&theme=radical" alt="aayishanooraj" height="139"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
 </p>
 <br>
