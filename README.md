@@ -68,6 +68,15 @@
 </p>
 <br>
 
+
+<!----------------------------------- Languages Used Section ------------------------------------>  
+<h2> Languages Used :wrench: </h2> 
+<p align="center">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
+</p>
+<br>
+
+
 <!----------------------------------- My GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 
@@ -78,9 +87,3 @@
 </p>
 <br>
 
-<!----------------------------------- Languages Used Section ------------------------------------>  
-<h2> Languages Used :wrench: </h2> 
-<p align="center">
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
-</p>
-<br>
