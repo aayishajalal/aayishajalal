@@ -72,7 +72,7 @@
 <!----------------------------------- Languages Used Section ------------------------------------>  
 <h2> Languages Used :wrench: </h2> 
 <p align="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="aayishajalal" height="139"/>
 </p>
 <br>
 
