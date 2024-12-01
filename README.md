@@ -15,7 +15,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Full%20Stack%20Developer-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
+    <img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack" />
     <img src="https://img.shields.io/badge/DevOps-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="DevOps AWS" />
 </p>
 
