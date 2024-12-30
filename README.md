@@ -103,6 +103,18 @@
         <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
 </p>
+---
+
+### 🏆 Badges
+
+<p>
+    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Contributor" />
+    <img src="https://img.shields.io/badge/Web%20Developer-yellowgreen?style=for-the-badge" alt="Web Developer" />
+    <img src="https://img.shields.io/badge/JavaScript%20Enthusiast-yellow?style=for-the-badge" alt="JavaScript Enthusiast" />
+    <img src="https://img.shields.io/badge/React%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Developer" />
+    <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-000000?style=for-the-badge" alt="MERN Stack Developer" />
+    <img src="https://img.shields.io/badge/AWS%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Practitioner" />
+</p>
 
 
 ---
