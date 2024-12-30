@@ -79,20 +79,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
----
 
-### 🌐 Let's Connect
-
-<p>
-    <a href="https://linktr.ee/aayishajalal" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-    </a>
-    <a href="https://hashnode.com/@aayishajalal" target="_blank">Hashnode</a><br>
-    <a href="https://www.quora.com/profile/Aayisha-Noora-Jalaludeen" target="_blank">Quora</a><br>
-    <a href="https://leetcode.com/aayishajalal/" target="_blank">LeetCode</a><br>
-    <a href="https://www.codechef.com/users/aayishajalal05" target="_blank">CodeChef</a><br>
-    <a href="https://www.geeksforgeeks.org/user/aayishajeb07/" target="_blank">GeeksforGeeks</a>
-</p>
 
 ---
 
@@ -107,6 +94,6 @@
 
 ### 🔍 Languages Used
 
-<p align="center">
+<p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
