@@ -69,21 +69,59 @@
 
 ---
 
+### 🌐 Let's Connect
+
+<p align="center">
+    <a href="https://linkedin.com/in/aayishanooraj" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.github.com/aayishajalal" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://hashnode.com/@aayishajalal" target="_blank">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    </a>
+    <a href="https://www.quora.com/profile/Aayisha-Noora-Jalaludeen" target="_blank">
+        <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+    </a>
+    <a href="https://x.com/AayishaNoora" target="_blank">
+        <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" />
+    </a>
+</p>
+
+---
+
+### 🏆 Competitive Coding Profiles
+
+<p align="center">
+    <a href="https://leetcode.com/aayishajalal/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://www.codechef.com/users/aayishajalal05" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/aayishajeb07/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+</p>
+
+---
+
+### 📄 Resume
+
+<p align="center">
+    <a href="https://drive.google.com/file/d/1Wi0jBXA8LBXyJJaMrasxFt8l6OCX9P0s/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayishajalal&theme=radical" alt="GitHub Streak" height="150"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayishajalal&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-    <a href="https://linktr.ee/aayishajalal" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-    </a>
 </p>
 
 ---
