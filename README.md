@@ -9,7 +9,6 @@
     </a>
 </p>
 
----
 
 ### 👩‍💻 About Me
 
@@ -25,7 +24,6 @@
 - 📚 Always eager to learn and implement **cutting-edge tools** for real-world solutions.
 - 🤝 Open to collaborations and connecting with like-minded developers!
 
----
 
 ### 🛠️ Tech Stack
 
@@ -79,7 +77,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
----
+
 
 ### 🌐 Let's Connect
 
@@ -93,6 +91,11 @@
     <a href="https://www.quora.com/profile/Aayisha-Noora-Jalaludeen" target="_blank">
         <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
     </a>
+</p>
+
+### 🎖️ Coding Profiles
+
+<p>
     <a href="https://leetcode.com/aayishajalal/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
@@ -103,21 +106,13 @@
         <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
 </p>
----
-
-### 🏆 Badges
-
-<p>
-    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Contributor" />
-    <img src="https://img.shields.io/badge/Web%20Developer-yellowgreen?style=for-the-badge" alt="Web Developer" />
-    <img src="https://img.shields.io/badge/JavaScript%20Enthusiast-yellow?style=for-the-badge" alt="JavaScript Enthusiast" />
-    <img src="https://img.shields.io/badge/React%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Developer" />
-    <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-000000?style=for-the-badge" alt="MERN Stack Developer" />
-    <img src="https://img.shields.io/badge/AWS%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Practitioner" />
-</p>
 
 
----
+### 🏆 Github Streak
+
+<img src="https://github-profile-trophy.vercel.app/?username=aksshay88&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="" width=200% height=100%/>
+
+
 
 ### 📊 GitHub Stats
 
@@ -126,10 +121,14 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayishajalal&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
 </p>
 
----
+
 
 ### 🔍 Languages Used
 
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
+
+### Do Follow Me and Star my repositories if you like
+
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Let's+Collaborate;Happy+Learning;Thank+You"/>
