@@ -79,6 +79,30 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
+---
+
+### 🌐 Let's Connect
+
+<p>
+    <a href="https://linktr.ee/aayishajalal" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+    <a href="https://hashnode.com/@aayishajalal" target="_blank">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    </a>
+    <a href="https://www.quora.com/profile/Aayisha-Noora-Jalaludeen" target="_blank">
+        <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+    </a>
+    <a href="https://leetcode.com/aayishajalal/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://www.codechef.com/users/aayishajalal05" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/aayishajeb07/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+</p>
 
 
 ---
