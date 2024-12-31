@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayisha Noora J</h1>
-
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=16&center=true&vCenter=true&width=600&lines=Do+Follow+Me+and;Star+my+repositories+if+you+like;Let's+Collaborate;Happy+Learning;Thank+You" alt="Typing SVG">
 <p align="center">
     <a href="https://github.com/aayishajalal">
         <img src="https://komarev.com/ghpvc/?username=aayishajalal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -85,6 +85,9 @@
     <a href="https://linktr.ee/aayishajalal" target="_blank">
         <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
+    <a href="https://www.linkedin.com/in/aayishanooraj/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="https://hashnode.com/@aayishajalal" target="_blank">
         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
     </a>
@@ -92,6 +95,7 @@
         <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
     </a>
 </p>
+
 
 ### 🎖️ Coding Profiles
 
@@ -107,28 +111,26 @@
     </a>
 </p>
 
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayishajalal&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayishajalal&theme=default&hide_border=false" alt="GitHub Streak">
+    
+</p>
 
 ### 🏆 Github Streak
 
-<img src="https://github-profile-trophy.vercel.app/?username=aksshay88&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="" width=200% height=100%/>
+<img src="https://github-profile-trophy.vercel.app/?username=aayishajalal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" 
+     alt="GitHub Trophies" 
+     style="width: 100%; height: auto;" />
+
+
+### ✨ Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+### ✍ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default" alt="Random Dev Quote">
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayishajalal&theme=radical" alt="GitHub Streak" height="150"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayishajalal&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-</p>
-
-
-
-### 🔍 Languages Used
-
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishajalal&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
-### Do Follow Me and Star my repositories if you like
-
-<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Let's+Collaborate;Happy+Learning;Thank+You"/>
