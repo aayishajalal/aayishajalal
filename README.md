@@ -1,3 +1,4 @@
+<img src="https://ik.imagekit.io/yuq4cit8f/Aayisha%20Noora%20-%20LinkedInBanner.png">
 <h1 align="center">Hi 👋, I'm Aayisha Noora J</h1>
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=16&center=true&vCenter=true&width=600&lines=Do+Follow+Me+and;Star+my+repositories+if+you+like;Let's+Collaborate;Happy+Learning;Thank+You" alt="Typing SVG">
 <p align="center">
